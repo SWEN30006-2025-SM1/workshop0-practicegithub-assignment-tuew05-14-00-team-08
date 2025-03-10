@@ -3,6 +3,7 @@ package example;
 public class Calculator {
     public int add(int a, int b) {
         // TODO: Implement this method
+        //Trying to push again
         return a + b;
     }
 
@@ -13,12 +14,11 @@ public class Calculator {
 
     public int multiply(int a, int b) {
         // TODO: Implement this method
-        //kate code
         return a * b;
     }
 
     public double divide(int a, int b) {
         // TODO: Implement this method
-        return a/b;
+        return a / b ;
     }
 }
